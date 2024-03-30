@@ -14,6 +14,6 @@ Neste repositório armazeno todo o conteúdo prático realizado nas aulas de `Al
 
 ## Outros conteúdos feitos em sala
 
-* [Desenvolvimento Web](https://github.com/vinicciuus/DesenvolvimentoWeb)
-* [Algoritmos e Lógica de programação](https://github.com/vinicciuus/algoritmos)
+* [Desenvolvimento Web](https://github.com/viniciuscassemira/DesenvolvimentoWeb)
+* [Algoritmos e Lógica de programação](https://github.com/viniciuscassemira/algoritmos)
 * em breve
