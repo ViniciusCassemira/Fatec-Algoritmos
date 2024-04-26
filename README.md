@@ -11,9 +11,10 @@ Neste repositório armazeno todo o conteúdo prático realizado nas aulas de `Al
 - O `PARA` no começo indica um laço de repetição usado no exercício.
 - O `MEDIA_SIMPLES` indica a principal função do exercício, que nesse exemplo é de <b>calcular a média simples</b>.
 - `.alg` é a <b>extensão do arquivo</b>, nada de especial.
+## Conteúdos relacionados a matéria
+- Prova 1 de Algoritmos e Lógica de Programação [Clique aqui para visitar o repositório](https://github.com/ViniciusCassemira/provaAlgoritmo)
 
 ## Outros conteúdos feitos em sala
-
 * [Desenvolvimento Web](https://github.com/ViniciusCassemira/DesenvolvimentoWeb)
 * [Algoritmos e Lógica de programação](https://github.com/ViniciusCassemira/algoritmos)
 * em breve
