@@ -43,11 +43,11 @@ Inicio
 
       repita
          repita
-            escreval("Informe a linha")
+            escreva("Informe a linha: ")
             leia(linha)
          ate(linha > 0)e(linha < 4)
          repita
-            escreval("Informe a coluna")
+            escreva("Informe a coluna: ")
             leia(coluna)
          ate(coluna > 0)e(coluna < 4)
 
@@ -61,13 +61,13 @@ Inicio
             senao
                posicao[linha,coluna] <- icone[jogador]
                espacoPreenchido <- 0
+               matrixPreenchido[linha,coluna] <- 1
             fimse
          senao
             posicao[linha,coluna] <- icone[jogador]
             espacoPreenchido <- 0
+            matrixPreenchido[linha,coluna] <- 1
          fimse
-
-         matrixPreenchido[linha,coluna] <- 1
       ate(espacoPreenchido = 0)
 
       limpatela()
@@ -136,7 +136,7 @@ Inicio
       fimse
 
       se(vencedor = 1)entao
-         escreval("o Jogador",jogador," venceu o jogo")
+         escreval("O jogador",jogador," venceu o jogo")
          escreval(" ",posicao[1,1]," | ",posicao[1,2]," | ",posicao[1,3])
          escreval("-----------")
          escreval(" ",posicao[2,1]," | ",posicao[2,2]," | ",posicao[2,3])
