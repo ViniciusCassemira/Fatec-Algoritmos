@@ -23,7 +23,11 @@ Inicio
          escreval()
       caso 3
          limpatela()
-         escreval("tabela")
+         escreval("tabela trigonométrica")
+         escreval("---|30° |45° |60°")
+         escreval("sen|1/2 |v2/2|v3/2")
+         escreval("cos|v3/2|v2/2|1/2")
+         escreval("tg |v3/3| 1  |v3")
          escreval()
       caso 4
          limpatela()
