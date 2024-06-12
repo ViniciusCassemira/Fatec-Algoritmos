@@ -16,5 +16,5 @@ Neste repositório armazeno todo o conteúdo prático realizado nas aulas de `Al
 
 ## Outros conteúdos feitos em sala
 * [Desenvolvimento Web](https://github.com/ViniciusCassemira/DesenvolvimentoWeb)
-* [Algoritmos e Lógica de programação](https://github.com/ViniciusCassemira/algoritmos)
-* em breve
+* [1º prova Desenvolvimento Web](https://github.com/ViniciusCassemira/Fatec-ProvaWeb1)
+* [1º prova Algoritmos e Lógica de Programação](https://github.com/ViniciusCassemira/Fatec-ProvaAlgoritmo1)
